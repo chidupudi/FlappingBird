@@ -35,15 +35,10 @@ Navigate the bird through the pipes without colliding with them.
 
 If the bird collides with a pipe or the ground, the game is over.
 
-Project Structure
 
-Flapping Bird/
-├── bird.py         # Contains the Bird class
-├── pipe.py         # Contains the Pipe class
-├── main.py         # Main game logic and loop
-├── config.py       # Configuration constants
-├── bird.png        # Bird image
-└── pipe.png        # Pipe image
+
+![image](https://github.com/user-attachments/assets/0b9ea93c-3d59-4ad5-b30b-f6eb17562d8f)
+
 
 
 Configuration
