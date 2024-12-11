@@ -2,6 +2,7 @@ import pygame
 import sys
 from bird import Bird
 from pipe import Pipe
+
 from config import SCREEN_WIDTH, SCREEN_HEIGHT
 
 pygame.init()
