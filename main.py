@@ -2,11 +2,8 @@ import pygame
 import sys
 from bird import Bird
 from pipe import Pipe
-
 from config import SCREEN_WIDTH, SCREEN_HEIGHT
-
 pygame.init()
-
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 clock = pygame.time.Clock()
 
